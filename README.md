@@ -1,3 +1,16 @@
+> **Play it with Asciiverse.** With [av](https://asciiverse.sh), the Asciiverse
+> client:
+>
+> ```
+> av install christbashtree
+> av play christbashtree
+> ```
+>
+> Or download the archive for your system from this repository's Releases,
+> unpack it and run `./christbashtree` (`christbashtree.exe` on Windows).
+>
+> The original README follows.
+
 # ChristBASHTree
 
 You know, a Christmas tree on Bash :)

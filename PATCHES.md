@@ -55,3 +55,9 @@ Changed:
   tree and its lights draw, q quits with status 0, but Wine's console
   printed some escape sequences literally, so the drawing on real Windows
   is unchecked. macOS not built here.
+
+## Ours
+
+- **How to play it, at the top of README.md.** A short note on installing and
+  starting it with av, or from a release archive; the original text follows
+  unchanged.
